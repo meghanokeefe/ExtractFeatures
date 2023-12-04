@@ -5,6 +5,8 @@ To run:
 1) Run "gpt.py"
 2) When prompted to enter your lecture script, do so and ensure that the first line is the title. NOTE! Ensure that your lecture script has no blank lines until the end of the file.
 
+To retrieve resuts:
+1) After running gpt.py with your script, the results will be in output1.csv
 References:
 Relies heavily on https://github.com/sahanbull/context-agnostic-engagement.
 
